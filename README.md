@@ -1,2 +1,2 @@
 # Model-Compression
-Modified Group Lasso Regularization Method for Neural Network Compression
+A Partial Regularization Method for Neural Network Compression
